@@ -61,3 +61,6 @@ crashlytics-build.properties
 
 # Server
 /Server/node_modules
+/Server/*.js
+/Server/*.js.map
+/Server/dist
